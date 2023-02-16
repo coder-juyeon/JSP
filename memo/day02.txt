@@ -1,0 +1,5 @@
+<분기처리>
+if문을 쓰자
+switch문은 break 까먹어서 오류 찾는데 하루 걸림 (쓸데없는 곳에 시간 떼우지말자)
+
+DAO에서 로그인 function void로
